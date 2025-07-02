@@ -33,7 +33,7 @@ const About = () => {
         <p className='text-base sm:text-lg md:text-lg text-gray-400 mb:10 mt: 8 leading-relaxed'>
             I am a full stack web developer with hands-on experience in building dynamic and scalable web applications using technologies like JavaScript, React, Node.js, Express, PostgreSQL, HTML, CSS, and Git. I thrive in collaborative environments and enjoy transforming complex problems into elegant solutions. With a mindset for continuous learning and growth, I'm always ready to embrace new challenges and contribute to impactful, real-world projects.
         </p>
-        <a href="https://drive.google.com/file/d/1kta28RjLrOoVqnw-WDtDW23_mRuAYhly/view?usp=sharing"
+        <a href="https://drive.google.com/file/d/11_rlmtTPgvF7h92Yu3wfwZZZ0G_OLeel/view?usp=sharing"
            target='_blank'
            rel='noopener noreferrer'
            className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
